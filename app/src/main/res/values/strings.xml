@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ftab</string>
+    <string name="top">微信</string>
+    <string name="friend">联系人</string>
+    <string name="find">朋友圈</string>
+    <string name="me">我</string>
+</resources>
